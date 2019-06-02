@@ -1,6 +1,6 @@
 # This blocklist blocks the Tik Tok traffic
 #
-# Date: 2 June 2019 16:30:57 (UTC)
+# Date: 2 June 2019 16:45:57 (UTC)
 # Fetch the latest version of this file: https://raw.githubusercontent.com/evpne/tiktokblocklist/master/tiktokblocklist.txt
 # Project home page: https://github.com/evpn/tiktokblocklist/
 # ===============================================================
@@ -79,8 +79,6 @@ mon.musical.ly
 
 mphw-suse1.muscdn.com
 
-p16-tiktokcdn-com.akamaized.net
-
 p16.muscdn.com
 
 v19.muscdn.com
@@ -89,17 +87,12 @@ v21.muscdn.com
 
 xlog-va.musically.ly
 
-tiktok.com
-
 mon-va.byteoversea.com
 
 api31.tiktokv.com
 
-tiktokv.com
-
 s16.tiktokcdn.com
 
-tiktokcdn.com
 
 # ===============================================================
 
