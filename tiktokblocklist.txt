@@ -1,8 +1,8 @@
 # This blocklist blocks the Tik Tok traffic
 #
 # Date: 2 June 2019 16:30:57 (UTC)
-# Fetch the latest version of this file: https://raw.githubusercontent.com/evpne/tiktokblocklist/blocklist
-# Project home page: https://github.com/StevenBlack/hosts
+# Fetch the latest version of this file: https://raw.githubusercontent.com/evpne/tiktokblocklist/master/tiktokblocklist.txt
+# Project home page: https://github.com/evpn/tiktokblocklist/
 # ===============================================================
 
 api-h2.tiktokv.com
